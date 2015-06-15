@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SMSSaldo</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="mnu_sincronizar">Sincronizar</string>
+
+
+    <string name="preference_file_key">teste</string>
+    <string name="validade"></string>
+    <string name="saldo"></string>
+    <string name="mnu_apagar">Apagar dados do aplicativo</string>
+</resources>
